@@ -18,6 +18,3 @@ jobs:
         uses: mikeal/publish-to-github-action@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          COMMIT_MSG: 'Something is happening, take a look 👀'
-          MAX_LINES: 10
