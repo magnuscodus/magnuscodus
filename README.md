@@ -1,7 +1,7 @@
 <h1> Chupapi munyanyo?! 🤤 <h1>
 
 ## Who am I anyway? 🕵️
-<p>I am Andy. A Web Development Student with 2 years of coding experience. Basically an absolute rookie that tries to learn Web Development / Development in general. </p>
+<p>I am Andy. A student that practices Front-End-Development (or at least, I try to!) for 2 years as of now. Basically an absolute rookie that tries to learn Web-Development / Software-Development in general. </p>
 <p> My goal with coding is to help others. I enjoy being able to create something that other people can use to make their lives easier. I take constructive criticism well, and use suggestions to improve the product. If there is a reasonable idea / request , I will try to make it happen! </p>
 
 ### Languages/Frameworks I'm learning:
@@ -24,7 +24,7 @@
 <code><a href="https://ubuntu.com/"><img alt="Ubuntu" title="Ubuntu" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" height="42"></a></code>
 
 
-## Recent GitHub Activity
+## Recent GitHub Activity 👨‍💻
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
