@@ -15,6 +15,6 @@ jobs:
       - name: Checkout current repository to Main branch
         uses: actions/checkout@v2
       - name: Commit and Push new README.md to the repository
-        uses: magnuscodus/github-activity-readme@main
+        uses: magnuscodus/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
