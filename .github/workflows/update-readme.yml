@@ -1,19 +1,17 @@
 name: Update README
 
 on:
-  push:
-    branches:
-      - main
   schedule:
     - cron: '*/30 * * * *'
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    name: Update this repo's README with recent activity
 
     steps:
       - uses: actions/checkout@v2
       - uses: magnuscodus/magnuscodus@main
-        name: Commit and Push new README.md to the repository
         env:
           GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
