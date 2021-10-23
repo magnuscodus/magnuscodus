@@ -28,8 +28,8 @@
   
 <!--START_SECTION:activity-->
 
-<details><summary>Show More</summary>
-</details>
+1. ❗️ Opened issue [#17442](https://github.com/timburgan/timburgan/issues/17442) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
+2. ❗️ Opened issue [#17219](https://github.com/timburgan/timburgan/issues/17219) in [timburgan/timburgan](https://github.com/timburgan/timburgan)
 <!--END_SECTION:activity--> 
 
 ## Show your support
