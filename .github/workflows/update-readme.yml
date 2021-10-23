@@ -1,4 +1,4 @@
-name: README build
+name: Update README
 
 on:
   push:
@@ -15,6 +15,6 @@ jobs:
       - name: Checkout current repository to Main branch
         uses: actions/checkout@v2
       - name: Commit and Push new README.md to the repository
-        uses: magnuscodus/magnuscodus@main
+        uses: magnuscodus/github-activity-readme@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
