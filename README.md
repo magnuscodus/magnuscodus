@@ -31,8 +31,10 @@
 <details><summary>Show More</summary>
 </details>
 <!--END_SECTION:activity--> 
+
 ## Show your support
-Drop a follow if you've found my work interesting or perhaps you just want to chat with me! [Sponsor Me][sponsor]? ![](https://yhype.me/github/@magnuscodus)
+
+Follow me if you like my work, or perhaps even [Sponsor Me][sponsor]? ![](https://yhype.me/github/@magnuscodus)
 
 <!-- Link anchors -->
 [sponsor]: https://github.com/sponsors/magnuscodus
