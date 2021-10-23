@@ -12,8 +12,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout current repository to Main branch
-        uses: actions/checkout@v1
+      - uses: actions/checkout@v2
       - uses: magnuscodus/magnuscodus@main
         name: Commit and Push new README.md to the repository
         env:
