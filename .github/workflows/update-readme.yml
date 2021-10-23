@@ -13,8 +13,8 @@ jobs:
 
     steps:
       - name: Checkout current repository to Main branch
-        uses: actions/checkout@v2
-      - name: Commit and Push new README.md to the repository
-        uses: magnuscodus/magnuscodus@main
+        uses: actions/checkout@v1
+      - uses: magnuscodus/magnuscodus@main
+        name: Commit and Push new README.md to the repository
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
