@@ -1,4 +1,4 @@
-<h1> Chupapi munyanyo?! 🤤 <h1>
+<h1> Hello there! <h1>
 
 ## Who am I anyway? 🕵️
 <p>I am Andy. A student that practices Front-End-Development (or at least, I try to!) for 2 years as of now. Basically an absolute rookie that tries to learn Web-Development / Software-Development in general. </p>
